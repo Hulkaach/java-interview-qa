@@ -1,0 +1,1 @@
+HTTP (Hyper Text Transfer Protocol) - протокол для передачи гипертекста
