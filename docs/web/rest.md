@@ -1,6 +1,3 @@
-
-
-
 ## REST
 REST - Representational State Transfer
 
