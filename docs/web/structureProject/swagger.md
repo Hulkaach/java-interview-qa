@@ -35,15 +35,16 @@ SpringApplication.run(CrmApplication.class, args);
 Swagger UI позволяет визуализировать ресурсы API и взаимодействовать с ними без какой-либо логики реализации. Он автоматически генерируется из вашей спецификации OpenAPI (ранее известной как Swagger), а визуальная документация упрощает внутреннюю реализацию и использование на стороне клиента.
 
 Вот пример Swagger UI, который визуализирует документацию:
+
 <p align="center">
-  <img src=docs/web/images/swaggerUIInterface.png alt="URL structure" width="400">
+  <img src="../images/swaggerUIInterface.png" alt="URL structure" width="400">
 </p>
 
 Здесь мы видим, что в приложении есть пять эндпоинтов. Все они имеют разные URL и методы.
 
 Если кликнем по одной из строк, то получим дополнительную информацию. Тут мы видим пример возможного ответа и клавишу «Try it out».
 <p align="center">
-  <img src=docs/web/images/swaggerTryItNow.png alt="URL structure" width="400">
+  <img src="../images/swaggerTryItNow.png" alt="URL structure" width="400">
 </p>
 
 Если мы нажмем на клавишу «Try it out», то сможем выполнить запрос на сервер и получить ответ от него.

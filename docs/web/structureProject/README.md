@@ -9,11 +9,12 @@
 - Controllers.  
 - Service.  
 Ниже изображен яркий пример проекта, построенного по такой структуре.
+
 <p align="center">
-  <img src="docs/web/images/projectStructure.png" alt="URL structure" width="300">
+  <img src="../images/projectStructure.png" alt="URL structure" width="300">
 </p>
 
-![Model](model.md)
-![Service](service.md)
-![Controller](controller.md)
-![Swagger](swagger.md)
+- [Model](model.md)
+- [Service](service.md)
+- [Controller](controller.md)
+- [Swagger](swagger.md)
